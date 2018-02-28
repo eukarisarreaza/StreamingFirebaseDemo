@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "630126041844",
+    "firebase_url": "https://pruebastreamingcloudstorage.firebaseio.com",
+    "project_id": "pruebastreamingcloudstorage",
+    "storage_bucket": "pruebastreamingcloudstorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630126041844:android:0f2c6739cdfa967e",
+        "android_client_info": {
+          "package_name": "com.eukaris.pruebastreamingcloudstorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630126041844-1s4hg88t33crbvenfurb9l8iaa9gcadd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eukaris.pruebastreamingcloudstorage",
+            "certificate_hash": "10402fb21ec9e760237da6e39733cf40655d39dc"
+          }
+        },
+        {
+          "client_id": "630126041844-lvbdk9lpd3925l5553etdivo19bns9dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe7wpB-rsKehYGU4W4LAXL2e6-tuWoKSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630126041844-lvbdk9lpd3925l5553etdivo19bns9dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630126041844:android:66348e6f2504f030",
+        "android_client_info": {
+          "package_name": "com.eukaris.streamingfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630126041844-kk3msqsab6cugu03snofrjou8koqu71c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eukaris.streamingfirebase",
+            "certificate_hash": "10402fb21ec9e760237da6e39733cf40655d39dc"
+          }
+        },
+        {
+          "client_id": "630126041844-lvbdk9lpd3925l5553etdivo19bns9dr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe7wpB-rsKehYGU4W4LAXL2e6-tuWoKSw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630126041844-lvbdk9lpd3925l5553etdivo19bns9dr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
